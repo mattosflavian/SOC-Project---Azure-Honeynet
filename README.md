@@ -104,6 +104,3 @@ For each simulated attack, I followed incident response practices based on the N
 
 This project successfully demonstrates the construction of a honeynet in Microsoft Azure, the integration of log sources into a Log Analytics workspace, and the effectiveness of Microsoft Sentinel in generating alerts and incidents based on the ingested logs. The significant reduction in security events and incidents after applying security controls underscores their importance in protecting the environment.
 
----
-
-Feel free to customize further or add any additional sections as needed!
